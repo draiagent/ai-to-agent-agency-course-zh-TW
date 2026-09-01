@@ -14,9 +14,11 @@
   教學導引與動手練習（效能／無障礙驗收、鍵盤實測）。
 - `agent-notes/code-reviewer.md` + `labs/code-reviewer-lab.md` — 程式碼審查者
   教學導引與 Lab（完整審查、必須 vs 建議、把審查變成團隊關卡）。
+- `agent-notes/devops-automator.md` + `labs/devops-automator-lab.md` — DevOps 自動化
+  工程師教學導引與 Lab（手動→流水線、零停機與自動回滾、上線後可觀測）。
 
 ### 待辦
-- 模組 2 其餘 2 個 Agent（devops-automator、senior-developer）
+- 模組 1 其餘：prompt-engineer、ai-engineer、multi-agent-systems-architect
 - 模組 1、3、4、5、6
 - 各模組投影片大綱
 - 釘選上游 commit SHA

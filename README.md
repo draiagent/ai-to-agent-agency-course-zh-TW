@@ -57,7 +57,7 @@
 | 4 | 行銷 marketing | content-creator、growth-hacker、seo-specialist、ai-citation-strategist |
 
 每個模組的教學法：定位 → Before/After 示範 → 動手 Lab → 常見誤區。
-完成進度以 [`CHANGELOG.md`](CHANGELOG.md) 為準。已完成：**模組 1 / backend-architect、frontend-developer、code-reviewer**。
+完成進度以 [`CHANGELOG.md`](CHANGELOG.md) 為準。已完成：**模組 1 / backend-architect、frontend-developer、code-reviewer、devops-automator**。
 
 ---
 

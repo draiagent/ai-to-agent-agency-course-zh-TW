@@ -46,3 +46,5 @@
 | `labs/frontend-developer-lab.md` | 前端開發者 | 同上 |
 | `agent-notes/code-reviewer.md` | 程式碼審查者 | `engineering/engineering-code-reviewer.md` |
 | `labs/code-reviewer-lab.md` | 程式碼審查者 | 同上 |
+| `agent-notes/devops-automator.md` | DevOps 自動化工程師 | `engineering/engineering-devops-automator.md` |
+| `labs/devops-automator-lab.md` | DevOps 自動化工程師 | 同上 |
