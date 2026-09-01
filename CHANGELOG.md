@@ -18,9 +18,11 @@
   工程師教學導引與 Lab（手動→流水線、零停機與自動回滾、上線後可觀測）。
 - `agent-notes/prompt-engineer.md` + `labs/prompt-engineer-lab.md` — 提示工程師教學
   導引與 Lab（一句話變規格、抓迴歸、提示 vs Agent 觀念題）。整門課的觀念起點。
+- `agent-notes/ai-engineer.md` + `labs/ai-engineer-lab.md` — AI 工程師教學導引與 Lab
+  （同一功能三種條件、擋下用大模型做小事、上線後漂移監控）。
 
 ### 待辦
-- 模組 1 其餘：ai-engineer、multi-agent-systems-architect
+- 模組 1 其餘：multi-agent-systems-architect
 - 模組 1、3、4、5、6
 - 各模組投影片大綱
 - 釘選上游 commit SHA

@@ -51,13 +51,13 @@
 
 | 模組 | 部門 Domain | 有完整教案的數位員工 |
 |---|---|---|
-| 1 | 工程 engineering | **backend-architect** ✅、**frontend-developer** ✅、**code-reviewer** ✅、devops-automator、prompt-engineer、ai-engineer、multi-agent-systems-architect |
+| 1 | 工程 engineering | backend-architect ✅、frontend-developer ✅、code-reviewer ✅、devops-automator ✅、prompt-engineer ✅、ai-engineer ✅、multi-agent-systems-architect |
 | 2 | 設計 design | ui-designer、ux-researcher |
 | 3 | 產品 product | manager（產品經理）、sprint-prioritizer |
 | 4 | 行銷 marketing | content-creator、growth-hacker、seo-specialist、ai-citation-strategist |
 
 每個模組的教學法：定位 → Before/After 示範 → 動手 Lab → 常見誤區。
-完成進度以 [`CHANGELOG.md`](CHANGELOG.md) 為準。已完成：**模組 1 / backend-architect、frontend-developer、code-reviewer、devops-automator、prompt-engineer**。
+完成進度以 [`CHANGELOG.md`](CHANGELOG.md) 為準。已完成：**模組 1 / backend-architect、frontend-developer、code-reviewer、devops-automator、prompt-engineer、ai-engineer**。
 
 ---
 

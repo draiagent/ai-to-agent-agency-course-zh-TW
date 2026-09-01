@@ -50,3 +50,5 @@
 | `labs/devops-automator-lab.md` | DevOps 自動化工程師 | 同上 |
 | `agent-notes/prompt-engineer.md` | 提示工程師 | `engineering/engineering-prompt-engineer.md` |
 | `labs/prompt-engineer-lab.md` | 提示工程師 | 同上 |
+| `agent-notes/ai-engineer.md` | AI 工程師 | `engineering/engineering-ai-engineer.md` |
+| `labs/ai-engineer-lab.md` | AI 工程師 | 同上 |
