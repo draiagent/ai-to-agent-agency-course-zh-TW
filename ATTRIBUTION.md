@@ -52,3 +52,5 @@
 | `labs/prompt-engineer-lab.md` | 提示工程師 | 同上 |
 | `agent-notes/ai-engineer.md` | AI 工程師 | `engineering/engineering-ai-engineer.md` |
 | `labs/ai-engineer-lab.md` | AI 工程師 | 同上 |
+| `agent-notes/multi-agent-systems-architect.md` | 多代理系統架構師 | `engineering/engineering-multi-agent-systems-architect.md` |
+| `labs/multi-agent-systems-architect-lab.md` | 多代理系統架構師 | 同上 |
