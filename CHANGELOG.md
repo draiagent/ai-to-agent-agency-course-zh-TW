@@ -12,9 +12,11 @@
 - `labs/backend-architect-lab.md` — 後端架構師動手練習 3 題 + 評分要點。
 - `agent-notes/frontend-developer.md` + `labs/frontend-developer-lab.md` — 前端開發者
   教學導引與動手練習（效能／無障礙驗收、鍵盤實測）。
+- `agent-notes/code-reviewer.md` + `labs/code-reviewer-lab.md` — 程式碼審查者
+  教學導引與 Lab（完整審查、必須 vs 建議、把審查變成團隊關卡）。
 
 ### 待辦
-- 模組 2 其餘 3 個 Agent 的 notes 與 labs（code-reviewer、devops-automator、senior-developer）
+- 模組 2 其餘 2 個 Agent（devops-automator、senior-developer）
 - 模組 1、3、4、5、6
 - 各模組投影片大綱
 - 釘選上游 commit SHA

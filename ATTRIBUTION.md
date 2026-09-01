@@ -44,3 +44,5 @@
 | `labs/backend-architect-lab.md` | 後端架構師 | 同上 |
 | `agent-notes/frontend-developer.md` | 前端開發者 | `engineering/engineering-frontend-developer.md` |
 | `labs/frontend-developer-lab.md` | 前端開發者 | 同上 |
+| `agent-notes/code-reviewer.md` | 程式碼審查者 | `engineering/engineering-code-reviewer.md` |
+| `labs/code-reviewer-lab.md` | 程式碼審查者 | 同上 |

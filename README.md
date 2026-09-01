@@ -54,7 +54,7 @@
 | 5 | 品質、安全、治理 | security-engineer、test-writer、technical-writer、legal-contract-reviewer |
 | 6 | 選修：中國平台團隊 | douyin-strategist、xiaohongshu 系列、wechat-official-account |
 
-完成進度以 [`CHANGELOG.md`](CHANGELOG.md) 為準。目前已完成：**模組 2 / backend-architect、frontend-developer**。
+完成進度以 [`CHANGELOG.md`](CHANGELOG.md) 為準。目前已完成：**模組 2 / backend-architect、frontend-developer、code-reviewer**。
 
 ---
 
