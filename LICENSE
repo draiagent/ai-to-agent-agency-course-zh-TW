@@ -1,0 +1,38 @@
+Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+本課程教材（curriculum/、agent-notes/、labs/、mapping.md 及其他由本專案新增之
+教學文件）採用 Creative Commons Attribution-ShareAlike 4.0 International 授權條款。
+
+完整法律條款：https://creativecommons.org/licenses/by-sa/4.0/legalcode
+條款摘要（非替代條款本身）：https://creativecommons.org/licenses/by-sa/4.0/
+
+你可以自由地：
+
+  * 分享 — 以任何媒介或格式重製及散布本素材
+  * 修改 — 重混、轉換本素材，及依本素材建立新素材
+    用於任何目的，包含商業性使用。
+
+惟需遵守下列條件：
+
+  * 姓名標示（BY）— 你必須給予適當表彰、提供指向本授權的連結，
+    並指出是否（對原素材）作了修改。你可以任何合理方式為之，但
+    不得以任何方式暗示授權人為你或你的使用方式背書。
+
+  * 相同方式分享（SA）— 若你重混、轉換本素材，或依本素材建立新
+    素材，你必須依照與原素材相同的授權條款來散布你的貢獻。
+
+  * 不得增加額外限制 — 你不得增設法律條款或科技措施，以致他人依
+    授權條款所允許之行為受到法律上之限制。
+
+────────────────────────────────────────────────────────────
+
+原始 Agent 角色內容之來源與授權（見 ATTRIBUTION.md）：
+
+  本教材大量參照並延伸自 "The Agency"（agency-agents），
+  作者 Michael Sitarzewski / AgentLand Contributors，
+  https://github.com/msitarzewski/agency-agents ，MIT License。
+
+  被引用之 Agent 定義原文本身仍受其原始 MIT 授權規範；本 CC BY-SA 4.0
+  僅適用於本專案新增之教學文字、課綱、練習題與對照分析。
+  繁體中文 Agent 定義檔本身放在姊妹專案
+  https://github.com/draiagent/AI-to-Agent-Agency-zh-TW （MIT）。

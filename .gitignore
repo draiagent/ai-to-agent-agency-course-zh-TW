@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# 編輯器
+.vscode/
+.idea/
+*.swp
+
+# 簡報成品 / 匯出（教材原始檔進版控，成品不進）
+*.pptx
+*.pdf
+export/
+*.tmp
+*.bak
