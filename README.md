@@ -26,7 +26,7 @@
 
 | 內容 | 說明 |
 |---|---|
-| [`curriculum/`](curriculum/) | 課程總覽、6 個模組的學習目標與節次規劃、投影片大綱 |
+| [`curriculum/`](curriculum/) | 課程總覽、各模組的學習目標與節次規劃、投影片大綱 |
 | [`agent-notes/`](agent-notes/) | 每個 Agent 一份教學導引：定位、何時召喚、Before/After 示範、常見誤區 |
 | [`labs/`](labs/) | 動手練習，每個 Agent 至少一題，可直接當課堂作業 |
 | [`mapping.md`](mapping.md) | Agent ↔「AI to Agent」能力層的鬆耦合對照 |
@@ -43,18 +43,21 @@
 
 ---
 
-## 課程地圖（6 模組）
+## 課程地圖
 
-| 模組 | 主題 | 對應 Agent |
+姊妹 repo [`AI-to-Agent-Agency-zh-TW`](https://github.com/draiagent/AI-to-Agent-Agency-zh-TW)
+收錄 **18 個部門、約 40 位數位員工**的繁體中文定義檔。本課程**教案先做 4 個部門**
+（工程／設計／產品／行銷），其餘 14 個部門的教案後續分批補；定義檔則已全數在姊妹 repo。
+
+| 模組 | 部門 Domain | 有完整教案的數位員工 |
 |---|---|---|
-| 1 | 打地基：Agent 是什麼、跟 prompt 有何不同 | prompt-engineer、ai-engineer、multi-agent-systems-architect、rapid-prototyper |
-| 2 | 工程實作四人組 | **backend-architect**、frontend-developer、code-reviewer、devops-automator、senior-developer |
-| 3 | 產品與交付：非工程角色也能 Agent 化 | product-manager、sprint-prioritizer、design-ux-researcher、design-ui-designer |
-| 4 | 內容與成長 | content-creator、growth-hacker、ai-citation-strategist、linkedin-content-creator |
-| 5 | 品質、安全、治理 | security-engineer、test-writer、technical-writer、legal-contract-reviewer |
-| 6 | 選修：中國平台團隊 | douyin-strategist、xiaohongshu 系列、wechat-official-account |
+| 1 | 工程 engineering | **backend-architect** ✅、**frontend-developer** ✅、**code-reviewer** ✅、devops-automator、prompt-engineer、ai-engineer、multi-agent-systems-architect |
+| 2 | 設計 design | ui-designer、ux-researcher |
+| 3 | 產品 product | manager（產品經理）、sprint-prioritizer |
+| 4 | 行銷 marketing | content-creator、growth-hacker、seo-specialist、ai-citation-strategist |
 
-完成進度以 [`CHANGELOG.md`](CHANGELOG.md) 為準。目前已完成：**模組 2 / backend-architect、frontend-developer、code-reviewer**。
+每個模組的教學法：定位 → Before/After 示範 → 動手 Lab → 常見誤區。
+完成進度以 [`CHANGELOG.md`](CHANGELOG.md) 為準。已完成：**模組 1 / backend-architect、frontend-developer、code-reviewer**。
 
 ---
 
