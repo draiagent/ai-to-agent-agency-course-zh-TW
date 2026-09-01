@@ -27,6 +27,10 @@
 | ui-designer | L2 | 驗收設計是否成系統、無障礙是否達標、能否直接交付開發 |
 | product-manager | L2→L3 | 從問題出發、把散落的職能編成一條有成功指標的產品線 |
 | sprint-prioritizer | L3 | 在有限產能下排序、把「都要」變成「這個 sprint 做這幾個」 |
+| content-creator | L1→L2 | 先有內容策略（受眾／支柱）再有內容；驗收成效指標 |
+| growth-hacker | L2→L3 | 把行銷點子寫成實驗、看漏斗、算 CAC/LTV、排實驗排程 |
+| seo-specialist | L2 | 先做自我競食稽核、判搜尋意圖、驗技術 SEO 與內容結構 |
+| ai-citation-strategist | L2 | 多平台稽核 AI 引用、基準→修正包→複查、分清 AEO≠SEO |
 | code-reviewer | L2 | 把「會驗」制度化成一道關卡 |
 | devops-automator | L3 | 部署、CI/CD 交給 Agent 的邊界 |
 | security-engineer | L2→L4 | 安全審查作為流程中的固定環節 |

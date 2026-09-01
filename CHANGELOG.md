@@ -34,13 +34,20 @@
 - `agent-notes/sprint-prioritizer.md` + `labs/sprint-prioritizer-lab.md` — Sprint 優先
   排序師教學導引與 Lab（框架排序、產能真相、sprint 目標 vs 待辦）。
 
+- `agent-notes/` + `labs/` × 4：content-creator、growth-hacker、seo-specialist、
+  ai-citation-strategist —— 行銷模組四位教學導引與 Lab（內容支柱、成長實驗、
+  自我競食稽核、AI 引用稽核）。
+
 ### 里程碑
 - ✅ **模組 1（工程）教案完成**：7 位
 - ✅ **模組 2（設計）教案完成**：2 位
-- ✅ **模組 3（產品）教案完成**：product-manager、sprint-prioritizer
+- ✅ **模組 3（產品）教案完成**：2 位
+- ✅ **模組 4（行銷）教案完成**：4 位
+- 🎉 **四個教案模組全數完成（15 位數位員工，各含教學導引 + Lab）**
 
 ### 待辦
-- 模組 4（行銷）：content-creator、growth-hacker、seo-specialist、ai-citation-strategist
+- 各模組投影片大綱
+- 視上游更新同步；其餘 14 個部門的教案（定義檔已在姊妹 repo）
 - 模組 1、3、4、5、6
 - 各模組投影片大綱
 - 釘選上游 commit SHA

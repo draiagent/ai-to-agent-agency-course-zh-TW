@@ -62,3 +62,11 @@
 | `labs/product-manager-lab.md` | 產品經理 | 同上 |
 | `agent-notes/sprint-prioritizer.md` | Sprint 優先排序師 | `product/product-sprint-prioritizer.md` |
 | `labs/sprint-prioritizer-lab.md` | Sprint 優先排序師 | 同上 |
+| `agent-notes/content-creator.md` | 內容創作者 | `marketing/marketing-content-creator.md` |
+| `labs/content-creator-lab.md` | 內容創作者 | 同上 |
+| `agent-notes/growth-hacker.md` | 成長駭客 | `marketing/marketing-growth-hacker.md` |
+| `labs/growth-hacker-lab.md` | 成長駭客 | 同上 |
+| `agent-notes/seo-specialist.md` | SEO 專家 | `marketing/marketing-seo-specialist.md` |
+| `labs/seo-specialist-lab.md` | SEO 專家 | 同上 |
+| `agent-notes/ai-citation-strategist.md` | AI 引用策略師 | `marketing/marketing-ai-citation-strategist.md` |
+| `labs/ai-citation-strategist-lab.md` | AI 引用策略師 | 同上 |

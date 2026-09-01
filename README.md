@@ -54,10 +54,10 @@
 | 1 | 工程 engineering | backend-architect ✅、frontend-developer ✅、code-reviewer ✅、devops-automator ✅、prompt-engineer ✅、ai-engineer ✅、multi-agent-systems-architect ✅ |
 | 2 | 設計 design | ui-designer ✅、ux-researcher ✅ |
 | 3 | 產品 product | product-manager ✅、sprint-prioritizer ✅ |
-| 4 | 行銷 marketing | content-creator、growth-hacker、seo-specialist、ai-citation-strategist |
+| 4 | 行銷 marketing | content-creator ✅、growth-hacker ✅、seo-specialist ✅、ai-citation-strategist ✅ |
 
 每個模組的教學法：定位 → Before/After 示範 → 動手 Lab → 常見誤區。
-完成進度以 [`CHANGELOG.md`](CHANGELOG.md) 為準。**目前：模組 1（工程 7）＋模組 2（設計 2）＋模組 3（產品 2）教案完成。**
+完成進度以 [`CHANGELOG.md`](CHANGELOG.md) 為準。**四個教案模組全數完成：工程 7＋設計 2＋產品 2＋行銷 4 = 15 位數位員工，各含教學導引 + Lab。**
 
 ---
 
