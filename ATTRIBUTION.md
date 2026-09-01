@@ -42,3 +42,5 @@
 |---|---|---|
 | `agent-notes/backend-architect.md` | 後端架構師 | `engineering/engineering-backend-architect.md` |
 | `labs/backend-architect-lab.md` | 後端架構師 | 同上 |
+| `agent-notes/frontend-developer.md` | 前端開發者 | `engineering/engineering-frontend-developer.md` |
+| `labs/frontend-developer-lab.md` | 前端開發者 | 同上 |

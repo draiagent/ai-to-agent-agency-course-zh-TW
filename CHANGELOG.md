@@ -10,9 +10,11 @@
 - `agent-notes/backend-architect.md` — 後端架構師教學導引（定位、召喚時機、
   Before/After 示範、常見誤區）。
 - `labs/backend-architect-lab.md` — 後端架構師動手練習 3 題 + 評分要點。
+- `agent-notes/frontend-developer.md` + `labs/frontend-developer-lab.md` — 前端開發者
+  教學導引與動手練習（效能／無障礙驗收、鍵盤實測）。
 
 ### 待辦
-- 模組 2 其餘 4 個 Agent 的 notes 與 labs
+- 模組 2 其餘 3 個 Agent 的 notes 與 labs（code-reviewer、devops-automator、senior-developer）
 - 模組 1、3、4、5、6
 - 各模組投影片大綱
 - 釘選上游 commit SHA
