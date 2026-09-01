@@ -48,3 +48,5 @@
 | `labs/code-reviewer-lab.md` | 程式碼審查者 | 同上 |
 | `agent-notes/devops-automator.md` | DevOps 自動化工程師 | `engineering/engineering-devops-automator.md` |
 | `labs/devops-automator-lab.md` | DevOps 自動化工程師 | 同上 |
+| `agent-notes/prompt-engineer.md` | 提示工程師 | `engineering/engineering-prompt-engineer.md` |
+| `labs/prompt-engineer-lab.md` | 提示工程師 | 同上 |
