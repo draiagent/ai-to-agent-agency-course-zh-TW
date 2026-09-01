@@ -54,3 +54,7 @@
 | `labs/ai-engineer-lab.md` | AI 工程師 | 同上 |
 | `agent-notes/multi-agent-systems-architect.md` | 多代理系統架構師 | `engineering/engineering-multi-agent-systems-architect.md` |
 | `labs/multi-agent-systems-architect-lab.md` | 多代理系統架構師 | 同上 |
+| `agent-notes/ui-designer.md` | UI 設計師 | `design/design-ui-designer.md` |
+| `labs/ui-designer-lab.md` | UI 設計師 | 同上 |
+| `agent-notes/ux-researcher.md` | UX 研究員 | `design/design-ux-researcher.md` |
+| `labs/ux-researcher-lab.md` | UX 研究員 | 同上 |

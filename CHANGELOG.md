@@ -24,11 +24,17 @@
   — 多代理系統架構師教學導引與 Lab（先畫拓撲再問失敗、上下文預算、把 demo 變架構）。
   模組 1 的收尾與最高點。
 
+- `agent-notes/ui-designer.md` + `labs/ui-designer-lab.md` — UI 設計師教學導引與 Lab
+  （token 先行、狀態與無障礙盤點、交付給開發者）。
+- `agent-notes/ux-researcher.md` + `labs/ux-researcher-lab.md` — UX 研究員教學導引與 Lab
+  （先問題後方法、拆穿想像的 persona、把回饋變建議）。
+
 ### 里程碑
-- ✅ **模組 1（工程）教案完成**：7 位數位員工全部有教學導引 + Lab
+- ✅ **模組 1（工程）教案完成**：7 位
+- ✅ **模組 2（設計）教案完成**：ui-designer、ux-researcher
 
 ### 待辦
-- 模組 2（設計）：ui-designer、ux-researcher
+- 模組 3（產品）：manager、sprint-prioritizer
 - 模組 1、3、4、5、6
 - 各模組投影片大綱
 - 釘選上游 commit SHA
