@@ -29,12 +29,18 @@
 - `agent-notes/ux-researcher.md` + `labs/ux-researcher-lab.md` — UX 研究員教學導引與 Lab
   （先問題後方法、拆穿想像的 persona、把回饋變建議）。
 
+- `agent-notes/product-manager.md` + `labs/product-manager-lab.md` — 產品經理教學導引與
+  Lab（解法還原成問題、成功指標表、RICE 排序與說不）。
+- `agent-notes/sprint-prioritizer.md` + `labs/sprint-prioritizer-lab.md` — Sprint 優先
+  排序師教學導引與 Lab（框架排序、產能真相、sprint 目標 vs 待辦）。
+
 ### 里程碑
 - ✅ **模組 1（工程）教案完成**：7 位
-- ✅ **模組 2（設計）教案完成**：ui-designer、ux-researcher
+- ✅ **模組 2（設計）教案完成**：2 位
+- ✅ **模組 3（產品）教案完成**：product-manager、sprint-prioritizer
 
 ### 待辦
-- 模組 3（產品）：manager、sprint-prioritizer
+- 模組 4（行銷）：content-creator、growth-hacker、seo-specialist、ai-citation-strategist
 - 模組 1、3、4、5、6
 - 各模組投影片大綱
 - 釘選上游 commit SHA

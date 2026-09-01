@@ -25,6 +25,8 @@
 | frontend-developer | L2 | 驗收 UI 實作的效能與無障礙，用工具實測而非目測 |
 | ux-researcher | L1→L2 | 判斷該做哪種研究、驗收研究是否有資料支撐（非想像的 persona） |
 | ui-designer | L2 | 驗收設計是否成系統、無障礙是否達標、能否直接交付開發 |
+| product-manager | L2→L3 | 從問題出發、把散落的職能編成一條有成功指標的產品線 |
+| sprint-prioritizer | L3 | 在有限產能下排序、把「都要」變成「這個 sprint 做這幾個」 |
 | code-reviewer | L2 | 把「會驗」制度化成一道關卡 |
 | devops-automator | L3 | 部署、CI/CD 交給 Agent 的邊界 |
 | security-engineer | L2→L4 | 安全審查作為流程中的固定環節 |

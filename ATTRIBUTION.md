@@ -58,3 +58,7 @@
 | `labs/ui-designer-lab.md` | UI 設計師 | 同上 |
 | `agent-notes/ux-researcher.md` | UX 研究員 | `design/design-ux-researcher.md` |
 | `labs/ux-researcher-lab.md` | UX 研究員 | 同上 |
+| `agent-notes/product-manager.md` | 產品經理 | `product/product-manager.md` |
+| `labs/product-manager-lab.md` | 產品經理 | 同上 |
+| `agent-notes/sprint-prioritizer.md` | Sprint 優先排序師 | `product/product-sprint-prioritizer.md` |
+| `labs/sprint-prioritizer-lab.md` | Sprint 優先排序師 | 同上 |
