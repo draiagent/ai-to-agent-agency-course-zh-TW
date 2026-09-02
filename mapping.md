@@ -62,5 +62,7 @@
 | pricing-analyst | L2 | 絕不在真空中定價、一律秀算式、利潤優先、每個建議附 ±20% 敏感度 |
 | animal-welfare-advocate | L2→L4 | 🆕 用行為與生理證據不用可愛照片、福利約束凌駕商業最佳化、福利否決權 |
 | public-policy-advocate | L3→L4 | 🆕 完整揭露、不碰暗錢、員工聲音≠公司方向、不做 astroturfing、方向是「影響」故護欄最硬 |
+| agent-ops-manager | L3→L4 | 🆕 治理數位員工團隊本身：真人擁有者、預設零權限、稽核軌跡、事故回滾；L4「會養」的正式載體 |
+| business-continuity-planner | L2→L3 | 🆕 從 BIA 出發、關鍵流程有 RTO/RPO、沒演練過的計畫不算數、標出單點故障 |
 
 _（🆕 = 本 repo 原創新增角色，非上游衍生。每新增一個 Agent 就補一列。）_

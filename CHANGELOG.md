@@ -4,6 +4,17 @@
 
 ## [未發佈]
 
+### 2026-09-02 — 組織韌性治理席位 2 位教案（→ 46 位）
+
+- `agent-notes/` + `labs/` × 2：agent-ops-manager、business-continuity-planner
+  （對應姊妹 repo 原創新增的 2 位角色）。
+  - **agent-ops-manager**（模組 18，🆕 原創）：治理數位員工團隊本身——真人擁有者、
+    預設零權限、稽核軌跡、成本歸屬、事故回滾。整門課 L4「會養」的正式落點。
+  - **business-continuity-planner**（模組 18，🆕 原創）：從 BIA 出發、關鍵流程有 RTO/RPO、
+    沒演練過的計畫不算數、標出單點故障；與 `security/` 事件處理互補。
+- 模組 18 治理席位改為兩組：「面對不在場的利害關係人」與「面對組織自身的韌性」。
+- 更新 `mapping.md`（+2 列）、`ATTRIBUTION.md`、`curriculum/課程總覽.md`、`README.md`：進度 → 46 位。
+
 ### 2026-09-02 — 跨域專業與治理席位補課（→ 44 位）
 
 - `agent-notes/` + `labs/` × 5：ecommerce-operator、esg-sustainability-officer、

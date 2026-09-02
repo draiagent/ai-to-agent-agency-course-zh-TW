@@ -107,3 +107,5 @@
 | `agent-notes/animal-welfare-advocate.md` + `labs/…` | 動物福利代言人 | 代表非人類利害關係人的治理席位；框架：Five Freedoms／Five Domains／WSAVA／Fear Free／台灣動物保護法 |
 | `agent-notes/public-policy-advocate.md` + `labs/…` | 政府關係與公共政策 | 對立法者／監管機關的對外影響席位；硬護欄：完整揭露、不碰暗錢、不做 astroturfing、員工聲音≠公司方向 |
 | `agent-notes/ecommerce-operator.md` + `labs/…` | 電商營運專員 | 台灣本地 DTC／多通路營運（非跨境、非中國平台）；上游同名角色僅有中國平台版與跨境版，均不適用 |
+| `agent-notes/agent-ops-manager.md` + `labs/…` | 數位員工長 | 治理數位員工團隊本身——版本控管、最小權限、稽核軌跡、成本歸屬、事故回滾；能力光譜 L4「會養」的載體 |
+| `agent-notes/business-continuity-planner.md` + `labs/…` | 營運持續規劃師 | 非資安型中斷（天災、斷鏈、關鍵人員流失、基礎設施停擺、傳染病）的營運持續與危機應變 |
