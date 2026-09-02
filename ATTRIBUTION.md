@@ -1,5 +1,8 @@
 # 致謝與來源（ATTRIBUTION）
 
+> 本文件中的「dr.aiagent（draiagent）」為維護者的 GitHub 帳號與法律署名，
+> 對外品牌為 **AI Coach 益力康陳董｜2026 AI to Agent**，兩者為同一權利人。
+
 ## 原始作品
 
 | 項目 | 內容 |
