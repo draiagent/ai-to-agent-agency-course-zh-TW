@@ -20,7 +20,6 @@
 | prompt-engineer | L0→L1 | prompt 與「角色 + 流程 + 交付物」的差別 |
 | ai-engineer | L1 | 什麼問題適合用 LLM、什麼不適合 |
 | multi-agent-systems-architect | L3 | 多 Agent 分工、交接、避免互相打架 |
-| rapid-prototyper | L1→L2 | 用 Agent 快速做出可驗證的原型 |
 | **backend-architect** | **L2→L3** | **看得懂架構取捨、能驗收系統設計文件、把設計→實作→審查串起來** |
 | frontend-developer | L2 | 驗收 UI 實作的效能與無障礙，用工具實測而非目測 |
 | ux-researcher | L1→L2 | 判斷該做哪種研究、驗收研究是否有資料支撐（非想像的 persona） |
@@ -53,7 +52,7 @@
 | clinical-evidence-agent | L2→L4 | 主張要出處、不越診斷權威界線、一份證據多受眾 |
 | game-designer | L2→L3 | GDD 化、無魔術數字、從玩家動機往外設計 |
 | narrative-designer | L2→L3 | 「真人會這樣說嗎」、種類不同的選擇、敘事連玩法 |
-| gis-analyst | L1→L2 | 垂直領域示範：先驗 CRS、記來源、對受眾有效 |
+| analyst（GIS 分析師） | L1→L2 | 垂直領域示範：先驗 CRS、記來源、對受眾有效 |
 | xr-immersive-developer | L2 | 垂直領域示範：跨裝置、效能預算、優雅降級 |
 | business-strategist | L3→L4 | 策略＝「不做什麼」的選擇；量化、取捨、可行動 |
 | mcp-builder | L3→L4 | 造工具給 Agent 用：命名即介面、一職責一工具 |
