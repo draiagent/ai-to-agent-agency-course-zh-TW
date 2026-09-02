@@ -70,3 +70,40 @@
 | `labs/seo-specialist-lab.md` | SEO 專家 | 同上 |
 | `agent-notes/ai-citation-strategist.md` | AI 引用策略師 | `marketing/marketing-ai-citation-strategist.md` |
 | `labs/ai-citation-strategist-lab.md` | AI 引用策略師 | 同上 |
+| `agent-notes/project-manager-senior.md` + `labs/…` | 資深專案經理 | `project-management/project-manager-senior.md` |
+| `agent-notes/meeting-notes-specialist.md` + `labs/…` | 會議記錄專家 | `project-management/project-management-meeting-notes-specialist.md` |
+| `agent-notes/deal-strategist.md` + `labs/…` | 交易策略師 | `sales/sales-deal-strategist.md` |
+| `agent-notes/outbound-strategist.md` + `labs/…` | 主動開發策略師 | `sales/sales-outbound-strategist.md` |
+| `agent-notes/financial-analyst.md` + `labs/…` | 財務分析師 | `finance/finance-financial-analyst.md` |
+| `agent-notes/bookkeeper-controller.md` + `labs/…` | 記帳士暨財務主計 | `finance/finance-bookkeeper-controller.md` |
+| `agent-notes/ppc-strategist.md` + `labs/…` | PPC 廣告活動策略師 | `paid-media/paid-media-ppc-strategist.md` |
+| `agent-notes/creative-strategist.md` + `labs/…` | 廣告素材策略師 | `paid-media/paid-media-creative-strategist.md` |
+| `agent-notes/appsec-engineer.md` + `labs/…` | 應用程式安全工程師 | `security/security-appsec-engineer.md` |
+| `agent-notes/penetration-tester.md` + `labs/…` | 滲透測試員 | `security/security-penetration-tester.md` |
+| `agent-notes/test-automation-engineer.md` + `labs/…` | 測試自動化工程師 | `testing/testing-test-automation-engineer.md` |
+| `agent-notes/accessibility-auditor.md` + `labs/…` | 無障礙稽核員 | `testing/testing-accessibility-auditor.md` |
+| `agent-notes/support-responder.md` + `labs/…` | 客服回應專員 | `support/support-support-responder.md` |
+| `agent-notes/analytics-reporter.md` + `labs/…` | 分析報告專員 | `support/support-analytics-reporter.md` |
+| `agent-notes/synthesist.md` + `labs/…` | 研究綜整師 | `research/research-synthesist.md` |
+| `agent-notes/psychologist.md` + `labs/…` | 心理學家 | `academic/academic-psychologist.md` |
+| `agent-notes/statistician.md` + `labs/…` | 統計學家 | `academic/academic-statistician.md` |
+| `agent-notes/clinical-evidence-agent.md` + `labs/…` | 臨床證據 Agent | `healthcare/healthcare-clinical-evidence-agent.md` |
+| `agent-notes/game-designer.md` + `labs/…` | 遊戲設計師 | `game-development/game-designer.md` |
+| `agent-notes/narrative-designer.md` + `labs/…` | 敘事設計師 | `game-development/narrative-designer.md` |
+| `agent-notes/analyst.md` + `labs/…` | GIS 分析師 | `gis/gis-analyst.md` |
+| `agent-notes/xr-immersive-developer.md` + `labs/…` | XR 沉浸式開發者 | `spatial-computing/xr-immersive-developer.md` |
+| `agent-notes/business-strategist.md` + `labs/…` | 商業策略師 | `specialized/business-strategist.md` |
+| `agent-notes/mcp-builder.md` + `labs/…` | MCP 建構者 | `specialized/specialized-mcp-builder.md` |
+| `agent-notes/esg-sustainability-officer.md` + `labs/…` | ESG 永續長 | `specialized/esg-sustainability-officer.md` |
+| `agent-notes/pricing-analyst.md` + `labs/…` | 定價分析師 | `specialized/specialized-pricing-analyst.md` |
+
+## 原創教學對象（非上游衍生）
+
+以下 Agent 為姊妹 repo `AI-to-Agent-Agency-zh-TW` 的原創新增角色（著作權 dr.aiagent，MIT），
+本 repo 為其撰寫教學導引與 Lab。這些角色不對應任何上游檔案。
+
+| 本 repo 檔案 | 對應 Agent | 說明 |
+|---|---|---|
+| `agent-notes/animal-welfare-advocate.md` + `labs/…` | 動物福利代言人 | 代表非人類利害關係人的治理席位；框架：Five Freedoms／Five Domains／WSAVA／Fear Free／台灣動物保護法 |
+| `agent-notes/public-policy-advocate.md` + `labs/…` | 政府關係與公共政策 | 對立法者／監管機關的對外影響席位；硬護欄：完整揭露、不碰暗錢、不做 astroturfing、員工聲音≠公司方向 |
+| `agent-notes/ecommerce-operator.md` + `labs/…` | 電商營運專員 | 台灣本地 DTC／多通路營運（非跨境、非中國平台）；上游同名角色僅有中國平台版與跨境版，均不適用 |

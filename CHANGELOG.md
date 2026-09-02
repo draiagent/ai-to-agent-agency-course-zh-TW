@@ -4,6 +4,27 @@
 
 ## [未發佈]
 
+### 2026-09-02 — 跨域專業與治理席位補課（→ 44 位）
+
+- `agent-notes/` + `labs/` × 5：ecommerce-operator、esg-sustainability-officer、
+  pricing-analyst、animal-welfare-advocate、public-policy-advocate —— 對應姊妹 repo
+  補收錄與原創新增的 5 位角色。
+  - **ecommerce-operator**（模組 4，🆕 原創）：每個 SKU 完整成本、檔期算真實利潤不追 GMV、
+    回購率是核心 KPI、多通路要改製不是複製。
+  - **esg-sustainability-officer**（模組 18）：沒有證據就沒有主張、漂綠是硬底線、
+    淨零目標要有有資金的路徑、雙重重大性評估。
+  - **pricing-analyst**（模組 18）：絕不在真空中定價、一律秀算式、利潤優先、
+    每個定價建議附 ±20% 敏感度分析。
+  - **animal-welfare-advocate**（模組 18，🆕 原創）：用行為與生理證據不用可愛照片、
+    福利約束凌駕商業最佳化、福利否決權。
+  - **public-policy-advocate**（模組 18，🆕 原創）：完整揭露、不碰暗錢、
+    員工聲音≠公司方向、不做 astroturfing；方向是「影響」故護欄最硬。
+    Lab 僅教「如何負責任地做政策倡議」，不教「如何有效遊說或影響選舉」。
+- 模組 18 新增「治理席位群」說明：esg-sustainability-officer、animal-welfare-advocate、
+  public-policy-advocate 三者分別是對外問責、對內代表、對外影響。
+- 更新 `mapping.md`（+5 列）、`ATTRIBUTION.md`（新增「原創教學對象」段）、
+  `curriculum/課程總覽.md`（模組 4／18 名單、進度 → 44 位）。
+
 ### 新增
 - 專案骨架：`README.md`、`LICENSE`（CC BY-SA 4.0）、`ATTRIBUTION.md`、`mapping.md`。
 - `curriculum/課程總覽.md` — 6 模組課程地圖與教學法說明。

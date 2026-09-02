@@ -46,18 +46,21 @@
 ## 課程地圖
 
 姊妹 repo [`AI-to-Agent-Agency-zh-TW`](https://github.com/draiagent/AI-to-Agent-Agency-zh-TW)
-收錄 **18 個部門、約 40 位數位員工**的繁體中文定義檔。本課程**教案先做 4 個部門**
-（工程／設計／產品／行銷），其餘 14 個部門的教案後續分批補；定義檔則已全數在姊妹 repo。
+收錄 **18 個部門、44 位數位員工**（41 翻譯 + 3 原創）的繁體中文定義檔。
+**本課程 18 個部門教案全數完成**，每位數位員工一份教學導引（`agent-notes/`）+ 一份 Lab（`labs/`）。
+完整模組表見 [`curriculum/課程總覽.md`](curriculum/課程總覽.md)。
 
-| 模組 | 部門 Domain | 有完整教案的數位員工 |
+| 模組群 | 部門 | 位數 |
 |---|---|---|
-| 1 | 工程 engineering | backend-architect ✅、frontend-developer ✅、code-reviewer ✅、devops-automator ✅、prompt-engineer ✅、ai-engineer ✅、multi-agent-systems-architect ✅ |
-| 2 | 設計 design | ui-designer ✅、ux-researcher ✅ |
-| 3 | 產品 product | product-manager ✅、sprint-prioritizer ✅ |
-| 4 | 行銷 marketing | content-creator ✅、growth-hacker ✅、seo-specialist ✅、ai-citation-strategist ✅ |
+| 1–4 | 工程、設計、產品、行銷 | 7 + 2 + 2 + 5 |
+| 5–11 | 專案管理、銷售、財務、付費媒體、安全、測試、客戶支援 | 各 2 |
+| 12–17 | 研究、學術、醫療、遊戲開發、GIS、空間運算 | 1／2／1／2／1／1 |
+| 18 | 跨域專業 specialized（含 ESG 永續長、定價分析師、動物福利代言人 🆕、政府關係與公共政策 🆕、電商營運 🆕 併入行銷） | 6 |
+
+> 🆕 = 姊妹 repo 原創新增角色，非上游衍生（見 [`ATTRIBUTION.md`](ATTRIBUTION.md)）。
 
 每個模組的教學法：定位 → Before/After 示範 → 動手 Lab → 常見誤區。
-完成進度以 [`CHANGELOG.md`](CHANGELOG.md) 為準。**四個教案模組全數完成：工程 7＋設計 2＋產品 2＋行銷 4 = 15 位數位員工，各含教學導引 + Lab。**
+完成進度以 [`CHANGELOG.md`](CHANGELOG.md) 為準。**18 個部門、44 位數位員工的教案全數完成，各含教學導引 + Lab。**
 
 ---
 
