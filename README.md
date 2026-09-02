@@ -156,7 +156,8 @@
 **AI Coach 益力康陳董｜2026 AI to Agent**
 
 - Agent 定義檔專案：[`AI-to-Agent-Agency-zh-TW`](https://github.com/draiagent/AI-to-Agent-Agency-zh-TW)（MIT）
-- 議題、勘誤與貢獻：請透過本 repo 的 Issues 與 Pull Requests
+- 貢獻方式：見 [`CONTRIBUTING.md`](CONTRIBUTING.md)；上游對應見 [`UPSTREAM.md`](UPSTREAM.md)
+- 議題、勘誤與 PR：請透過本 repo 的 Issues 與 Pull Requests
 
 > 「2026 AI to Agent」是本年度的方法論主張：從「會用 AI」邁向「讓 AI 自主完成工作」。
 > 本課程是該主張的公開教學實作。
