@@ -40,6 +40,12 @@
 > 對「影響力／權限」類角色（政策倡議、滲透測試等），Lab 一律使用靶機／紙上推演，
 > 絕不對真實、未授權的系統操作。
 
+### 術語
+
+技術術語一律以姊妹 repo 的
+[`docs/術語對照表.md`](https://github.com/draiagent/AI-to-Agent-Agency-zh-TW/blob/main/docs/術語對照表.md)
+為準（該表為兩個 repo 共用的單一來源）。遇到表上沒有的新術語，先到姊妹 repo 補進對照表再用。
+
 ---
 
 ## 流程
