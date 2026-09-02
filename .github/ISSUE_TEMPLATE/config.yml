@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Agent 定義檔相關（翻譯 / frontmatter / 角色設定）
+    url: https://github.com/draiagent/AI-to-Agent-Agency-zh-TW/issues
+    about: 本 repo 只放教材；定義檔問題請到姊妹 repo。
+  - name: 術語對照表（兩 repo 共用單一來源）
+    url: https://github.com/draiagent/AI-to-Agent-Agency-zh-TW/blob/main/docs/術語對照表.md
+    about: 技術術語一律以此表為準。
